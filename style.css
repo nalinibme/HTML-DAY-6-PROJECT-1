@@ -1,0 +1,19 @@
+body{
+    background-color:rosybrown;
+    color: #9fe9d2;
+}
+h1{
+    color: white;
+    background-color:black;
+    width: 650px;
+}
+h3{
+    color: black;
+    background-color:aquamarine;
+    border-radius: 30px;
+    width: 400px
+}
+#msg{
+    background-color: black;
+    width: 200px;
+}
